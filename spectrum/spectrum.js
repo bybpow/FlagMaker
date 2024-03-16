@@ -30,7 +30,7 @@
         cancelText: "cancel",
         chooseText: "choose",
         clearText: "Clear Color Selection",
-        preferredFormat: hex,
+        preferredFormat: "hex",
         className: "", // Deprecated - use containerClassName and replacerClassName instead.
         containerClassName: "",
         replacerClassName: "",
